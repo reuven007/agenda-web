@@ -22,7 +22,7 @@ h1{
 
 .Botao1 {
 	text-decoration: none;
-	background-color: #008000;
+	background-color: #66bbff;
 	padding: 5px 10px 5px 10px;
 	font-size: 1.2em;
 	font-weight: 700;
@@ -45,8 +45,32 @@ h1{
 
 .Fone1 {
 	
-	padding: 5px;
+	padding: 3px;
 	margin-bottom: 10px;
 	border: 1px solid #66bbff
 	
 }
+
+
+#tabela {
+	margin-top: 20px;
+	
+}
+#tabela th {
+	border:1px solid #ddd;
+	padding:8px;
+	background-color: #66bbff;
+	color:#fff;
+	
+}
+
+#tabela td {
+	border:1px solid #c0c0c0;
+	padding:8px;
+	
+}
+
+
+
+
+
