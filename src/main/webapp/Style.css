@@ -34,6 +34,16 @@ h1{
    
    
 }
+.Botao2 {
+	text-decoration: none;
+	background-color: #ff0000;
+	padding: 5px 10px 5px 10px;
+	font-size: 1.2em;
+	font-weight: 700;
+	color: #fff;
+	border-radius: 20px;
+	
+}
 
 .Caixa1 {
 	width: 320px;
@@ -42,7 +52,19 @@ h1{
 	border: 1px solid #66bbff
 	
 }
-
+.Caixa2 {
+	width: 320px;
+	padding: 5px;
+	margin-bottom: 10px;
+	border: 1px solid #004080
+	
+}
+#Caixa3 {
+	
+	padding: 5px;
+	margin-bottom: 10px;
+	border: 1px solid #ff0000;
+}
 .Fone1 {
 	
 	padding: 3px;
